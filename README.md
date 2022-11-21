@@ -1,1 +1,1 @@
-# dota2-data
+# dota2-data-insights
